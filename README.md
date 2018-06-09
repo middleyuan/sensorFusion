@@ -12,10 +12,12 @@ Whole project link: https://os.mbed.com/users/middleyuan/code/LSM9DS1_project/
 > ![image](https://github.com/middleyuan/sensorFusion/blob/master/gyro.JPG)
 > ## Accelerometer
 > ![image](https://github.com/middleyuan/sensorFusion/blob/master/accelerometer.JPG)
+> ## Algorithm
+> estimate pitch angle and roll angle
+> ![image](https://github.com/middleyuan/sensorFusion/blob/master/algorithm.JPG)
 
-# Algorithm
-* estimate pitch angle and roll angle
-![image](https://github.com/middleyuan/sensorFusion/blob/master/algorithm.JPG)
+
+ 
 
 
 

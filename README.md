@@ -9,6 +9,7 @@ Whole project link: https://os.mbed.com/users/middleyuan/code/LSM9DS1_project/
 
 # IMU
 > ## Gyro
+> ![image](https://github.com/middleyuan/infix-maze/blob/master/maze.JPG)
 
 
 
